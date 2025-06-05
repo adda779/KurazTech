@@ -22,7 +22,3 @@ A simple and clean Task Manager web app built with HTML, CSS, and JavaScript.
 - HTML5
 - CSS3 (Flexbox, Responsive Design)
 - Vanilla JavaScript
-
-## License
-
-This project is open source and free to use.
